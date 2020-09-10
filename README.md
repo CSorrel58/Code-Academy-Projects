@@ -1,4 +1,4 @@
-# personal_projects
+# Learning Programs
 
 Each file should contain a specific project I have worked on either through Code Academy or on my own through other training programs from sites like Kaggle, Tableau Public Support, and Dataquest. 
 
